@@ -25,6 +25,7 @@ With new guests, Dave Matthews Band returns to the studio to compose their third
 - **1996**: The band wins its first Grammy Award for their song *So Much to Say*
 - **October 28, 1997**: DMB releases their first full-length live album *Live at Red Rocks 8.15.95*
 - **April 28, 1998**: The band releases their third studio album *Before These Crowded Streets*
+- **Labor Day 2004**: Dave Matthews Band performs their first annual Labor Dave Weekend shows, marking the beginning of a yearly tradition.
 
 ## Notable Awards
 - Debut album, *Under the Table and Dreaming*, goes 6 times platinum
