@@ -33,9 +33,9 @@ With new guests, Dave Matthews Band returns to the studio to compose their third
 - In 2024 DMB was inducted into the Rock and Roll Hall of Fame
 
 ## See also
-- [Dave Matthews] (https://en.wikipedia.org/wiki/Dave_Matthews)
-- [Listen: *Crash into Me*] (https://open.spotify.com/track/1HL3yEnYq8LEyFQ3QegA5V?si=467b282886d44fa3)
-- [Listen: *Ants Marching*] (https://open.spotify.com/track/2FfZg072w8RoxlMOR7M4CT?si=aa62431ced2e44bf)
+- [Dave Matthews](https://en.wikipedia.org/wiki/Dave_Matthews)
+- [Listen: *Crash into Me*](https://open.spotify.com/track/1HL3yEnYq8LEyFQ3QegA5V?si=467b282886d44fa3)
+- [Listen: *Ants Marching*](https://open.spotify.com/track/2FfZg072w8RoxlMOR7M4CT?si=aa62431ced2e44bf)
 
 ## References
 1. [Dave Matthews Band Website](https://davematthewsband.com/news/?p=5&c=1091)
