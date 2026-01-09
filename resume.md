@@ -6,7 +6,7 @@ http://www.linkedin.com/in/kaitlyn-billington-7a3150279
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+I received my Bachelor's degree from the University of Washington, with course work based in geography, data science, information management, and business. This has allowed me to gain proficiency in Microsoft systems, many programming languages (java, python, html, R, and SQL), as well as GIS like QGIS and ArcGIS. This learning has prepared me for this position by giving me the background to continue growing these skills, taught me the process in producing this content, allowed me to practice working in diverse teams, and has given me the resources to continue learning about this field.
 
 # Work Experience
 
@@ -31,11 +31,6 @@ Quick Summary (not objective) specifically highlighting why you qualify for the 
 **Dancer (Athlete, Captain)** (July 2022 - April 2025)
 
 
-- Served as Captain during the 2024-2025 season
+- Served as **Captain** during the 2024-2025 season
 - Built relationships with my peers and coaches, helping the group better handle stress and busy schedules throughout the season
 - Worked on time management, ensuring I was early to practices, as well as the football, volleyball, basketball, and gymnastics meets that we cheered at
-
-
-[UW District Market Alder]: https://hfs.uw.edu/eat/dining-hours/district-market-alder
-[HOTWORX]: https://www.hotworx.net/studio/vancouver-skyview-station
-[UW Spirit]: https://www.uwspirit.com
