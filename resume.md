@@ -2,7 +2,7 @@
 
 kbill26@uw.edu
 
-http://www.linkedin.com/in/kaitlyn-billington-7a3150279
+[LinkedIn](http://www.linkedin.com/in/kaitlyn-billington-7a3150279)
 
 # Summary
 
