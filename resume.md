@@ -32,7 +32,6 @@ I received my Bachelor's degree from the University of Washington, with course w
 
 **Dancer (Athlete, Captain)** (July 2022 - April 2025)
 
-
 > - Served as **Captain** during the 2024-2025 season
 > - Built relationships with my peers and coaches, helping the group better handle stress and busy schedules throughout the season
 > - Worked on time management, ensuring I was early to practices, as well as the football, volleyball, basketball, and gymnastics meets that we cheered at
@@ -42,3 +41,7 @@ I received my Bachelor's degree from the University of Washington, with course w
 - Experience using QGIS, ArcGIS, GitHub, and JupyterHub
 - Proficiency in Microsoft Office
 - Practice in Problem Solving, Sales, and Conflict Resolution
+
+[UW District Market](https://hfs.uw.edu/eat/dining-hours/district-market-alder) |
+[HOTWORX](https://www.hotworx.net/studio/vancouver-skyview-station) |
+[UW Spirit](https://www.uwspirit.com/)
